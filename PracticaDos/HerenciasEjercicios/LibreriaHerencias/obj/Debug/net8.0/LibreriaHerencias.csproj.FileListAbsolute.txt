@@ -1,0 +1,12 @@
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\obj\Debug\net8.0\LibreriaHerencias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\obj\Debug\net8.0\LibreriaHerencias.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\obj\Debug\net8.0\LibreriaHerencias.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\obj\Debug\net8.0\LibreriaHerencias.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\obj\Debug\net8.0\LibreriaHerencias.sourcelink.json
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\bin\Debug\net8.0\LibreriaHerencias.deps.json
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\bin\Debug\net8.0\LibreriaHerencias.dll
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\bin\Debug\net8.0\LibreriaHerencias.pdb
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\obj\Debug\net8.0\LibreriaHerencias.dll
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\obj\Debug\net8.0\refint\LibreriaHerencias.dll
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\obj\Debug\net8.0\LibreriaHerencias.pdb
+C:\Users\MINEDUCYT\Desktop\CICLO V\POE\PRACTICAS\PracticaDos\HerenciasEjercicios\LibreriaHerencias\obj\Debug\net8.0\ref\LibreriaHerencias.dll

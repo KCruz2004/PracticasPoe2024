@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71CB3A53-3418-4B09-96B6-997EE16950E5}|HerenciasEjercicios\\HerenciasEjercicios.csproj|c:\\users\\mineducyt\\desktop\\ciclo v\\poe\\practicas\\practicados\\herenciasejercicios\\herenciasejercicios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CB3A53-3418-4B09-96B6-997EE16950E5}|HerenciasEjercicios\\HerenciasEjercicios.csproj|solutionrelative:herenciasejercicios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CB3A53-3418-4B09-96B6-997EE16950E5}|HerenciasEjercicios\\HerenciasEjercicios.csproj|c:\\users\\mineducyt\\desktop\\ciclo v\\poe\\practicas\\practicados\\herenciasejercicios\\herenciasejercicios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71CB3A53-3418-4B09-96B6-997EE16950E5}|HerenciasEjercicios\\HerenciasEjercicios.csproj|solutionrelative:herenciasejercicios\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CB3A53-3418-4B09-96B6-997EE16950E5}|HerenciasEjercicios\\HerenciasEjercicios.csproj|c:\\users\\mineducyt\\desktop\\ciclo v\\poe\\practicas\\practicados\\herenciasejercicios\\herenciasejercicios\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CB3A53-3418-4B09-96B6-997EE16950E5}|HerenciasEjercicios\\HerenciasEjercicios.csproj|solutionrelative:herenciasejercicios\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CB3A53-3418-4B09-96B6-997EE16950E5}|HerenciasEjercicios\\HerenciasEjercicios.csproj|c:\\users\\mineducyt\\desktop\\ciclo v\\poe\\practicas\\practicados\\herenciasejercicios\\herenciasejercicios\\herenciasejercicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71CB3A53-3418-4B09-96B6-997EE16950E5}|HerenciasEjercicios\\HerenciasEjercicios.csproj|solutionrelative:herenciasejercicios\\herenciasejercicios.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F3E4E-9C03-433A-8C81-1667CAA7893C}|LibreriaHerencias\\LibreriaHerencias.csproj|c:\\users\\mineducyt\\desktop\\ciclo v\\poe\\practicas\\practicados\\herenciasejercicios\\libreriaherencias\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39F3E4E-9C03-433A-8C81-1667CAA7893C}|LibreriaHerencias\\LibreriaHerencias.csproj|solutionrelative:libreriaherencias\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71CB3A53-3418-4B09-96B6-997EE16950E5}|HerenciasEjercicios\\HerenciasEjercicios.csproj|c:\\users\\mineducyt\\desktop\\ciclo v\\poe\\practicas\\practicados\\herenciasejercicios\\herenciasejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71CB3A53-3418-4B09-96B6-997EE16950E5}|HerenciasEjercicios\\HerenciasEjercicios.csproj|solutionrelative:herenciasejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A39F3E4E-9C03-433A-8C81-1667CAA7893C}|LibreriaHerencias\\LibreriaHerencias.csproj|c:\\users\\mineducyt\\desktop\\ciclo v\\poe\\practicas\\practicados\\herenciasejercicios\\libreriaherencias\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A39F3E4E-9C03-433A-8C81-1667CAA7893C}|LibreriaHerencias\\LibreriaHerencias.csproj|solutionrelative:libreriaherencias\\perro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HerenciasEjercicios",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\HerenciasEjercicios\\HerenciasEjercicios.csproj",
+              "RelativeDocumentMoniker": "HerenciasEjercicios\\HerenciasEjercicios.csproj",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\HerenciasEjercicios\\HerenciasEjercicios.csproj",
+              "RelativeToolTip": "HerenciasEjercicios\\HerenciasEjercicios.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-13T09:54:47.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\HerenciasEjercicios\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "HerenciasEjercicios\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\HerenciasEjercicios\\MainForm.Designer.cs",
+              "RelativeToolTip": "HerenciasEjercicios\\MainForm.Designer.cs",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:40:47.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\HerenciasEjercicios\\MainForm.cs",
+              "RelativeDocumentMoniker": "HerenciasEjercicios\\MainForm.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\HerenciasEjercicios\\MainForm.cs",
+              "RelativeToolTip": "HerenciasEjercicios\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:37:26.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\LibreriaHerencias\\Animal.cs",
+              "RelativeDocumentMoniker": "LibreriaHerencias\\Animal.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\LibreriaHerencias\\Animal.cs",
+              "RelativeToolTip": "LibreriaHerencias\\Animal.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:23:40.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\HerenciasEjercicios\\MainForm.cs",
+              "RelativeDocumentMoniker": "HerenciasEjercicios\\MainForm.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\HerenciasEjercicios\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "HerenciasEjercicios\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:41:04.303Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\HerenciasEjercicios\\Program.cs",
+              "RelativeDocumentMoniker": "HerenciasEjercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\HerenciasEjercicios\\Program.cs",
+              "RelativeToolTip": "HerenciasEjercicios\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAqwA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:54:56.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Perro.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\LibreriaHerencias\\Perro.cs",
+              "RelativeDocumentMoniker": "LibreriaHerencias\\Perro.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\Desktop\\CICLO V\\POE\\PRACTICAS\\PracticaDos\\HerenciasEjercicios\\LibreriaHerencias\\Perro.cs",
+              "RelativeToolTip": "LibreriaHerencias\\Perro.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T09:29:36.891Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

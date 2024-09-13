@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HerenciasEjercicios/1.0.0": {
+        "dependencies": {
+          "LibreriaHerencias": "1.0.0"
+        },
+        "runtime": {
+          "HerenciasEjercicios.dll": {}
+        }
+      },
+      "LibreriaHerencias/1.0.0": {
+        "runtime": {
+          "LibreriaHerencias.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HerenciasEjercicios/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LibreriaHerencias/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
