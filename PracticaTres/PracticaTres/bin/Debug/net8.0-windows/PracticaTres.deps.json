@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PracticaTres/1.0.0": {
+        "dependencies": {
+          "StudentSystemData": "1.0.0"
+        },
+        "runtime": {
+          "PracticaTres.dll": {}
+        }
+      },
+      "StudentSystemData/1.0.0": {
+        "runtime": {
+          "StudentSystemData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PracticaTres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StudentSystemData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
